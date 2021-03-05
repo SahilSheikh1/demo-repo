@@ -1,3 +1,3 @@
 #HELLO
 
-here isa the first project. 
+here is a the first project. 
